@@ -3,9 +3,9 @@
    Hi there i'm DoJeong 👋
 </header>
 <div>
-  <h2>Tech Stack</h2>
+  <h2>🌟Tech Stack</h2>
   <div>
-  <p>Design Tool</p>
+  <p>🌈Design Tool</p>
     <span>
   <img src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=black">
     </span>
@@ -18,7 +18,7 @@
   </div>
 
   <div>
-    <p>Frontend</p>
+    <p>✨Frontend</p>
     <span>
        <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=black">
     </span>
@@ -34,7 +34,7 @@
   </div>
 
   <div>
-    <p>Studying</p>
+    <p>🔥Studying</p>
     <span>  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"></span>
   </div>
 
